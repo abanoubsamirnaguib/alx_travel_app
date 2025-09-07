@@ -1,7 +1,0 @@
-django
-djangorestframework
-django-cors-headers
-celery
-drfl-yasg
-django-environ
-mysqlclient
